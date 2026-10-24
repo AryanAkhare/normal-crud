@@ -1,0 +1,24 @@
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+
+# OS-generated files
+Thumbs.db
+.DS_Store

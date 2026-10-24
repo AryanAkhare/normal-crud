@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UserManagementApi\UserManagementApi.csproj" />
+  <Project Path="UserManagementApi.Tests\UserManagementApi.Tests.csproj" />
+</Solution>
